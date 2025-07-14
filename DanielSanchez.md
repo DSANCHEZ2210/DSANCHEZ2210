@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Daniel Sanchez
+# Hi, I'm Daniel Sanchez
 
-🎓 Data Science & Applied Math student at Tecnológico de Monterrey (Campus Guadalajara)  
-🇲🇽 Passionate about solving real-world problems using data, optimization, and artificial intelligence  
-🧠 Interests: Machine Learning, Forecasting, Optimization, Quantitative Finance
+Data Science & Applied Math student at Tecnológico de Monterrey (Campus Guadalajara)  
+Passionate about solving real-world problems using data, optimization, and artificial intelligence  
+Interests: Machine Learning, Forecasting, Optimization, Quantitative Finance
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -16,14 +16,14 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 `Python` • `Scikit-Learn` • `XGBoost` • `TensorFlow` • `PuLP` • `SQL` • `Power BI` • `Streamlit` • `LaTeX`
 
 ---
 
-📫 Reach me: [danisanchfort@gmail.com](mailto:danisanchfort@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/dsanchezf2210)
+ Reach me: [danisanchfort@gmail.com](mailto:danisanchfort@gmail.com)  
+ [LinkedIn](https://linkedin.com/in/dsanchezf2210)
 
 <!---
 DSANCHEZ2210/DSANCHEZ2210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
