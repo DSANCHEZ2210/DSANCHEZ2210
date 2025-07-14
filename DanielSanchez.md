@@ -22,7 +22,7 @@
 
 ---
 
-📫 Reach me: [dsanchezf2210@outlook.com](mailto:dsanchezf2210@outlook.com)  
+📫 Reach me: [danisanchfort@gmail.com](mailto:danisanchfort@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/dsanchezf2210)
 
 <!---
