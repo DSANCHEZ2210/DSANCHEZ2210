@@ -6,19 +6,9 @@ Interests: Machine Learning, Forecasting, Optimization, Quantitative Finance
 
 ---
 
-## Featured Projects
+## Portafolio
+You can view my latest projects in this portfolio: [Portafolio](https://github.com/DSANCHEZ2210/Daniel-s-Portafolio).  
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Sensor Classification](https://github.com/DSANCHEZ2210/mobile-sensor-classification) | Real-time classification of motion activity using mobile sensor data (accel + gyro) | XGBoost, MLP, SVM |
-| [Inventory Forecasting](https://github.com/DSANCHEZ2210/inventory-forecasting) | Predicting weekly sales/inventory using LSTM, Prophet and ARIMA | Python, Time Series |
-| [Cash Flow Optimization](https://github.com/DSANCHEZ2210/cash-logistics-optimization) | Cost-optimized cash transfer model for retail stores | Python, PuLP, Linear Programming |
-
----
-
-## Tech Stack
-
-`Python` • `Scikit-Learn` • `XGBoost` • `TensorFlow` • `PuLP` • `SQL` • `Power BI` • `Streamlit` • `LaTeX`
 
 ---
 
